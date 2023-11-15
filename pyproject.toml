@@ -1,5 +1,5 @@
 [tool.poetry]
-authors = ["pierrerochet <pierre-rochet@outlook.fr>"]
+authors = ["pirocheto"]
 description = ""
 name = "tmachine"
 version = "0.1.0"
