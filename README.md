@@ -1,10 +1,9 @@
-This project is a simple implementation of a Turing machine.  
-This is a project for educational purposes in order to understand the operation of a Turing machine.
+> **NOTE**: *This project is a simple implementation of a Turing machine. This is a project for educational purposes in order to understand the operation of a Turing machine.*
 
-# Install
+# Installation
 ```pip install .``` or ```poetry install```
 
-# Using
+# Usage
 ```
 Usage: tmachine [OPTIONS] PROGRAM_PATH
 
